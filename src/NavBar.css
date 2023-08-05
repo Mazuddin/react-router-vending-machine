@@ -1,0 +1,27 @@
+
+nav ul {
+    list-style: none;
+    margin: 20px;
+    padding: 20;
+  }
+  
+
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+
+  .nav-link {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    padding: 6px 12px;
+    border: 1px solid #080808;
+    border-radius: 6px;
+    background-color: rgba(134, 132, 132, 0.534);
+    box-shadow: 0 2px 4px rgb(0, 0, 0);
+
+  }
+  
+    
